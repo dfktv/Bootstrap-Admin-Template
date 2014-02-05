@@ -12,6 +12,8 @@ Free Admin Template with Twitter Bootstrap
 
 [http://demo.onokumus.com/metis/index.html][1]
 
+[http://www.getsoldprice.com.au][3]
+
 ### Licensing
 
 Bootstrap Admin template is open-sourced software licensed under the [MIT License][2]
@@ -19,3 +21,4 @@ Bootstrap Admin template is open-sourced software licensed under the [MIT Licens
 
   [1]: http://demo.onokumus.com/metis/index.html
   [2]: http://opensource.org/licenses/MIT
+  [3]: http://www.getsoldprice.com.au
